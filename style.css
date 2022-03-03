@@ -26,6 +26,7 @@ body {
 }
 
 .imgQr {
+  border-radius: 10px;
   height: 285px;
   margin-bottom: 30px;
 }
